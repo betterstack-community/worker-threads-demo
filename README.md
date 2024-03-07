@@ -1,27 +1,46 @@
-# Title of the project
+# Worker Threads Express App
 
-Description of the project.
+This project demonstrates how to create a Node.js Express application using worker threads for non-blocking operations.
 
 **Tutorial**: [Link to corresponding BetterStack tutorial]()
 
-![Screenshot or GIF of the application in action](screenshot.png)
-
 ## 🟢 Prerequisites
 
-A list of requirements and package versions that the reader needs to build and
-run the project.
+Before running this application, ensure you have the following prerequisites:
 
-- The first thing.
-- The second thing.
+- Node.js installed on your machine.
+- Basic knowledge of JavaScript and Node.js.
 
 ## 📦 Getting started
 
-A brief guide to setting up the project.
+To set up and run the project, follow these steps:
 
-- Do the first thing.
-- Do the next thing.
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/betterstack-community/worker-threads-demo.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd worker-threads-express-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the server:
+
+   ```bash
+   npm start
+   ```
+
+5. Open your web browser and navigate to `http://localhost:3000/non-blocking` to see the non-blocking endpoint in action.
 
 ## ⚖ License
 
-The code used in this project and in the linked tutorial are licensed under the
-[Apache License, Version 2.0](LICENSE)
+The code used in this project and in the linked tutorial are licensed under the [Apache License, Version 2.0](LICENSE).
