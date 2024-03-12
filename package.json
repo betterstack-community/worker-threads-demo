@@ -1,16 +1,19 @@
 {
   "name": "worker-threads-demo",
   "version": "1.0.0",
-  "description": "Description of the project.",
+  "description": "Demonstrating Node.js workers",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Better Stack Community",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
   }
 }
