@@ -2,7 +2,7 @@
 
 This project demonstrates how to create a Node.js Express application using worker threads for non-blocking operations.
 
-**Tutorial**: [Link to corresponding BetterStack tutorial]()
+**Tutorial**: [A Beginner's Guide to Node.js Worker Threads](https://betterstack.com/community/guides/scaling-nodejs/nodejs-workers-explained/)
 
 ## 🟢 Prerequisites
 
